@@ -1,7 +1,24 @@
 ### `Yarışan Grafikler`
 
-Use ```yarn install``` to install dependencies.
+An application that demonstrates the changes made to the given dummy data with a moving bar chart
 
-Use ```yarn start``` to run the app in the development mode.
+### `Project Screenshot`
 
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![app-example-image](https://i.hizliresim.com/sbu0mme.png)
+
+### `Installation and Setup Instructions`
+
+Clone down this repository. You will need node and npm installed globally on your machine.
+
+##### Installation:
+
+```yarn install```
+
+##### To Start App:
+
+```yarn start```
+
+##### To Visit App:
+
+```localhost:3000```
+
