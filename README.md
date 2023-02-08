@@ -1,7 +1,7 @@
 ### `Yarışan Grafikler`
 
-yarn install for installing node_modules
+Use ```yarn install``` to install dependencies.
 
-yarn start runs the app in the development mode.
+Use ```yarn start``` to run the app in the development mode.
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
