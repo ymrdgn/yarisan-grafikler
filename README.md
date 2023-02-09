@@ -4,7 +4,8 @@ An application that demonstrates the changes made to the given dummy data with a
 
 ### `Project Screenshot`
 
-![app-example-image](https://i.hizliresim.com/sbu0mme.png)
+![app-example-image](https://i.hizliresim.com/79cepub.gif)
+
 
 ### `Installation and Setup Instructions`
 
